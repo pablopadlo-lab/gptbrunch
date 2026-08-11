@@ -1,0 +1,8 @@
+title: GPT Brunch
+description: AI Morning Digest — daily insights on data, strategy, tools, and research
+baseurl: ""
+url: "https://pablopadlo-lab.github.io/gptbrunch"
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
